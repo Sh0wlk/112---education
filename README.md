@@ -3,6 +3,7 @@
 An information system and interactive simulator designed for emergency dispatchers of the "System 112" service in Moscow. The application allows trainees to handle emergency scenarios, tracks time limits for filling out unified emergency cards (EKP), and uses local AI to evaluate dispatcher performance.
 
 Its an a submission on a LCT hackathon of an XD team, made with love and passion :)
+
 links:
 
   vids:
