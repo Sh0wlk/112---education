@@ -4,12 +4,16 @@ An information system and interactive simulator designed for emergency dispatche
 
 Its an a submission on a LCT hackathon of an XD team, made with love and passion :)
 links:
+
   vids:
+  
     1) https://drive.google.com/file/d/1XbN5EVsrpKEmKTm0r0tqzf5YGG-P3vxp/view?usp=sharing
     2) https://drive.google.com/file/d/1foLIZY-kRiXD39Rs_4txiFyn2AHO4tXG/view?usp=sharing
   presentation:
+  
     https://docs.google.com/presentation/d/1ukwPNwPgumriGu-vx_c2tQ91n48GPC5x/edit?usp=sharing&ouid=102541825497758279433&rtpof=true&sd=true
   full documentation on russian:
+  
     https://drive.google.com/file/d/1SpF5vW1u1NLWEBU9v9asck5kCuJGydEH/view?usp=sharing
 
 ## 🚀 Tech Stack
